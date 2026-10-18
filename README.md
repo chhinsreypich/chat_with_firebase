@@ -1,16 +1,9 @@
 # chat_with_firebase
 
-A new Flutter project.
+This project was built for learning and practice purposes by following a YouTube tutorial.
 
-## Getting Started
+**Tutorial:** [Watch the tutorial on YouTube](https://youtu.be/mBBycL0EtBQ?si=xkuHG-8zd1Tzy6Z1)
 
-This project is a starting point for a Flutter application.
+The purpose of this project was to practice programming, understand how the application is developed, and improve my development skills.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Note:** This is a learning project based on the tutorial linked above.
